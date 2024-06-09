@@ -37,9 +37,9 @@
 - [HTML - Página Web Blog](https://github.com/pabloteodoro/blog)
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://raw.githubusercontent.com/pabloteodoro/gif/main/giphy%20code.webp?token=GHSAT0AAAAAACSLGPUQKKTJIOF2HZOFX22OZTF6EYA" alt="Imagem">
-</p>
+
+![ezgif com-animated-gif-maker](https://github.com/pabloteodoro/pabloteodoro/assets/132463199/f2aead5d-8065-4308-be3f-206f70114371)
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
