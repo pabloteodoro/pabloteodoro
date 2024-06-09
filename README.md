@@ -4,7 +4,7 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/pabloteodoro/pabloteodoro/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Presentation -->
 <p>
