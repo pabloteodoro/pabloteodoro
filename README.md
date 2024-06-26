@@ -35,6 +35,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [HTML - Página Web Blog](https://github.com/pabloteodoro/blog)
+- [TicTacToe - Jogo da Velha](https://github.com/pabloteodoro/tic-tac-toe)
 
 <!-- GIF -->
 
