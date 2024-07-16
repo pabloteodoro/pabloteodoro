@@ -19,7 +19,7 @@
 <details>
   <summary> :information_desk_person: More about me</summary>
 
-  - 💬 I'm 23 years old and currently live in São Paulo, Brazil. I am fluent in Portuguese with an intermediate level of English and have experience with Javascript, TypeScript, NodeJS, HTML5 and CSS3.
+  - 💬 I'm 24 years old and currently live in São Paulo, Brazil. I am fluent in Portuguese with an intermediate level of English and have experience with Javascript, TypeScript, NodeJS, HTML5 and CSS3.
 
   - ⚡ I like playing video games and in my free time I dedicate myself to studying programming \O/
 </details>
