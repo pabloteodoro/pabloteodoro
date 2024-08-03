@@ -37,6 +37,7 @@
 - [Dev Job Search - Vagas de Emprego](https://github.com/pabloteodoro/dev-job-search)
 - [HTML - Página Web Blog](https://github.com/pabloteodoro/blog)
 - [TicTacToe - Jogo da Velha](https://github.com/pabloteodoro/tic-tac-toe)
+- [Quizz - DOM](https://github.com/pabloteodoro/quizz)
 
 <!-- GIF -->
 
