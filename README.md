@@ -38,6 +38,7 @@
 - [HTML - Página Web Blog](https://github.com/pabloteodoro/blog)
 - [TicTacToe - Jogo da Velha](https://github.com/pabloteodoro/tic-tac-toe)
 - [Quizz - DOM](https://github.com/pabloteodoro/quizz)
+- [Calculator Windows](https://github.com/pabloteodoro/calculator)
 
 <!-- GIF -->
 
