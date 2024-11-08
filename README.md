@@ -34,6 +34,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [Tarefas+](https://task-and-dashboards-arh2.vercel.app)
 - [Dev Job Search - Vagas de Emprego](https://github.com/pabloteodoro/dev-job-search)
 - [GitHub Repositorios](https://github.com/pabloteodoro/repositories-github)
 - [HTML - Página Web Blog](https://github.com/pabloteodoro/blog)
