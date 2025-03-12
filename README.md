@@ -19,7 +19,8 @@
 <details>
   <summary> :information_desk_person: More about me</summary>
 
-  - 💬 I'm 24 years old and currently live in São Paulo, Brazil. I am fluent in Portuguese with an intermediate level of English and have experience with Javascript, TypeScript, NodeJS, HTML5 and CSS3.
+  - 💬 I'm 24 years old and currently live in São Paulo, Brazil. I am fluent in Portuguese with an intermediate level of English and have experience with Javascript, TypeScript, NextJS, NodeJS, ReactJS, HTML5 and CSS3.
+  - I have the AWS CLOUD PRACTITIONER CLF-C02 certification, experience with AWS services.
 
   - ⚡ I like playing video games and in my free time I dedicate myself to studying programming \O/
 </details>
@@ -61,6 +62,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react logo" />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="tw logo" />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="30" alt="sql logo" />
 </div>
 
   </div>
@@ -74,7 +81,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+
+
+
 </div>
+<div align="center">
+<h3>Cloud</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="30" alt="aws logo" />
 
   </div>
   
