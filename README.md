@@ -35,6 +35,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [DalyGames](https://github.com/pabloteodoro/dalygames)
 - [Tarefas+](https://task-and-dashboards-arh2.vercel.app)
 - [Dev Job Search - Vagas de Emprego](https://github.com/pabloteodoro/dev-job-search)
 - [GitHub Repositorios](https://github.com/pabloteodoro/repositories-github)
