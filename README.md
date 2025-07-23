@@ -19,7 +19,7 @@
 <details>
   <summary> :information_desk_person: More about me</summary>
 
-  - 💬 I'm 24 years old and currently live in São Paulo, Brazil. I am fluent in Portuguese with an intermediate level of English and have experience with Javascript, TypeScript, NextJS, NodeJS, ReactJS, HTML5 and CSS3.
+  - 💬 I'm 25 years old and currently live in São Paulo, Brazil. I am fluent in Portuguese with an intermediate level of English and have experience with Javascript, TypeScript, NextJS, NodeJS, ReactJS, HTML5 and CSS3.
   - I have the AWS CLOUD PRACTITIONER CLF-C02 certification, experience with AWS services.
 
   - ⚡ I like playing video games and in my free time I dedicate myself to studying programming \O/
@@ -35,6 +35,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [ViajeMais](https://triibo-challenge-react.vercel.app/)
 - [DalyGames](https://github.com/pabloteodoro/dalygames)
 - [Tarefas+](https://task-and-dashboards-arh2.vercel.app)
 - [Dev Job Search - Vagas de Emprego](https://github.com/pabloteodoro/dev-job-search)
