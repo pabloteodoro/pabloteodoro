@@ -28,11 +28,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-teodoro/)
 
-
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloteodoro&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloteodoro&show_icons=true&theme=gotham)](https://github.com/pabloteodoro/github-readme-stats)
-
 <!-- Portfolio -->
 ## Portfolio:
 - [ViajeMais](https://triibo-challenge-react.vercel.app/)
