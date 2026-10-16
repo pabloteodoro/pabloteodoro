@@ -30,6 +30,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [Portfolio](https://github.com/pabloteodoro/portfolio)
 - [ViajeMais](https://triibo-challenge-react.vercel.app/)
 - [DalyGames](https://github.com/pabloteodoro/dalygames)
 - [Tarefas+](https://task-and-dashboards-arh2.vercel.app)
